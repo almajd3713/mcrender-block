@@ -1,6 +1,6 @@
 # Minecraft Block Renderer
 
-![CI](https://github.com/almajd3713/vibecoded_mc_renderer/workflows/CI/badge.svg)
+![CI](https://github.com/almajd3713/mcrender-block/workflows/CI/badge.svg)
 [![PyPI version](https://badge.fury.io/py/mcrender-block.svg)](https://pypi.org/project/mcrender-block/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/mcrender-block.svg)](https://pypi.org/project/mcrender-block/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -29,8 +29,8 @@ pip install mcrender-block
 ### From source
 
 ```bash
-git clone https://github.com/almajd3713/vibecoded_mc_renderer.git
-cd vibecoded_mc_renderer
+git clone https://github.com/almajd3713/mcrender-block.git
+cd mcrender-block
 pip install -e .
 ```
 
